@@ -8,7 +8,7 @@
     "ratio": 0,
     "media": "sub",
     "languages": [
-      "ES"
+      "all"
     ],
     "icon": "https://releases.moe/favicon.png",
     "update": "https://raw.githubusercontent.com/LetMeGetAByte/Hayase-Extensions/main/index.json",
@@ -23,7 +23,7 @@
     "ratio": 0,
     "media": "sub",
     "languages": [
-      "ES"
+      "all"
     ],
     "icon": "https://animetosho.org/inc/favicon.ico",
     "update": "https://raw.githubusercontent.com/LetMeGetAByte/Hayase-Extensions/main/index.json",
@@ -52,7 +52,7 @@
     "accuracy": "low",
     "media": "both",
     "languages": [
-      "ES"
+      "all"
     ],
     "description": "Fetches torrents from The Pirate Bay via Torrents-API",
     "icon": "https://upload.wikimedia.org/wikipedia/en/3/36/The_Pirate_Bay_logo.svg",
@@ -68,7 +68,7 @@
     "ratio": 0,
     "media": "sub",
     "languages": [
-      "ES"
+      "all"
     ],
     "icon": "https://subsplease.org/favicon.ico",
     "update": "https://raw.githubusercontent.com/LetMeGetAByte/Hayase-Extensions/main/index.json",
@@ -83,10 +83,10 @@
     "ratio": 0,
     "media": "sub",
     "languages": [
-      "ES"
+      "all"
     ],
     "icon": "https://www.tokyotosho.info/favicon.ico",
-    "update": "https://raw.githubusercontent.com/LetMeGetAByte/Hayase-Extensions/main/index.json",
-    "code": "https://raw.githubusercontent.com/LetMeGetAByte/Hayase-Extensions/main/tokyotosho.js"
+    "update": "https://raw.githubusercontent.com/jKatharsis/Hayase-Extensions-ESP/main/index.json",
+    "code": "https://raw.githubusercontent.com/jKatharsis/Hayase-Extensions-ESP/main/tokyotosho.js"
   }
 ]
